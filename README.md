@@ -11,7 +11,8 @@ I created this project to learn more about coding and have fun.
 1. git clone the repository
 2. move to the subTester directory
 3. install poetry: sudo apt install python3-poetry
-4. poetry install
+4. cd packages
+5. poetry install
 
 # Usage
 
